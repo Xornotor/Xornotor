@@ -37,6 +37,8 @@ Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA,
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![STM 32](https://img.shields.io/badge/STM32-%2300599C.svg?style=for-the-badge&logo=STM32&logoColor=black)
+
 
 
 **Machine Learning/Deep Learning:**
