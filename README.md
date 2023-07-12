@@ -3,7 +3,13 @@
 
 Olá! Meu nome é André, mas pode me chamar de _And_ ou de _Xornotor_.
 
-Sou Técnico em Eletrônica e atualmente estou cursando a graduação em Engenharia de Computação, com previsão para formação em 2023.2.
+Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA, com previsão para formação em 2023.2.
+
+## Áreas de conhecimento
+*  Microcontroladores e Sistemas Embarcados (Arduino, STM32, Raspberry Pi)
+*  Machine Learning/Deep Learning (Tensorflow, Keras)
+*  Desenvolvimento Web Básico (HTML, CSS, JavaScript e PHP)
+*  Design básico para FPGA's (Verilog)
 
 ## Tecnologias
 
@@ -22,8 +28,10 @@ Sou Técnico em Eletrônica e atualmente estou cursando a graduação em Engenha
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23ffffff.svg?style=for-the-badge&logo=Verilog&logoColor=black)
 
 **Hardware:**
 
