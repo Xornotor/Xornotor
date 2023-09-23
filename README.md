@@ -4,7 +4,7 @@
 
 🇧🇷 - Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA, com previsão para formação para o final de 2023.
 
-## Áreas de conhecimento (Knowledge areas)
+## Áreas de conhecimento (Knowledge fields)
 *  Microcontroladores e Sistemas Embarcados (Microcontrollers & Embedded Systems)
 *  Aprendizagem de máquina (Machine Learning/Deep Learning)
 *  Ciência de dados (Data Science)
