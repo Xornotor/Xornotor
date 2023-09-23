@@ -1,20 +1,20 @@
 # André Paiva
-24yr | he/him
 
-Olá! Meu nome é André, mas pode me chamar de _And_ ou de _Xornotor_.
+🇬🇧 - I'm an Electronics Technician and I'm currently pursuing a BSc in Computer Engineering at Federal University of Bahia - UFBA (expected to graduate by the end of 2023).
 
-Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA, com previsão para formação em 2023.2.
+🇧🇷 - Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA, com previsão para formação para o final de 2023.
 
-## Áreas de conhecimento
-*  Microcontroladores e Sistemas Embarcados (Arduino, STM32, Raspberry Pi)
-*  Machine Learning/Deep Learning (Tensorflow, Keras)
-*  Desenvolvimento Web Básico (HTML, CSS, JavaScript e PHP)
-*  Design básico para FPGA's (Verilog)
+## Áreas de conhecimento (Knowledge areas)
+*  Microcontroladores e Sistemas Embarcados (Microcontrollers & Embedded Systems)
+*  Aprendizagem de máquina (Machine Learning/Deep Learning)
+*  Ciência de dados (Data Science)
+*  Design básico para FPGA's (Basic Verilog programming for FPGA's)
 
 ## Tecnologias
 
-**Ferramentas de edição e gerenciamento de código:**
+**Ferramentas:**
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,19 +40,20 @@ Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA,
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![STM 32](https://img.shields.io/badge/STM32-%2300599C.svg?style=for-the-badge&logo=STM32&logoColor=black)
 
-
-
-**Machine Learning/Deep Learning:**
+**Data Science:**
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234781b5.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23112F52.svg?style=for-the-badge&logo=seaborn&logoColor=%white)
+
+**Machine Learning/Deep Learning:**
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 **Sistemas Operacionais:**
@@ -71,11 +72,6 @@ Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA,
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Outros:**
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## Estatísticas
 
