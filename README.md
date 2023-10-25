@@ -5,9 +5,9 @@
 🇧🇷 - Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA, com previsão para formação para o final de 2023.
 
 ## Áreas de conhecimento (Knowledge fields)
-*  Microcontroladores e Sistemas Embarcados (Microcontrollers & Embedded Systems)
 *  Aprendizagem de máquina (Machine Learning/Deep Learning)
 *  Ciência de dados (Data Science)
+*  Microcontroladores e Sistemas Embarcados (Microcontrollers & Embedded Systems)
 *  Design básico para FPGA's (Basic Verilog programming for FPGA's)
 
 ## Tecnologias
@@ -61,7 +61,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 **Vídeo, Imagem e 3D:**
 
