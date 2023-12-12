@@ -1,8 +1,8 @@
 # André Paiva
 
-🇬🇧 - I'm an Electronics Technician and I'm currently pursuing a BSc in Computer Engineering at Federal University of Bahia - UFBA (expected to graduate by the end of 2023).
+🇬🇧 - I'm an Electronics Technician and I'm am completing my degree in Computer Engineering at Federal University of Bahia (UFBA).
 
-🇧🇷 - Sou Técnico em Eletrônica e estou cursando Engenharia de Computação na UFBA, com previsão para formação para o final de 2023.
+🇧🇷 - Sou Técnico em Eletrônica e estou terminando a graduação em Engenharia de Computação na UFBA.
 
 ## Áreas de conhecimento (Knowledge fields)
 *  Aprendizagem de máquina (Machine Learning/Deep Learning)
