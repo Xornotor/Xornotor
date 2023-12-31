@@ -1,8 +1,8 @@
 # André Paiva
 
-🇬🇧 - I'm a Computer Engineer up to pursue a MSc degree.
+🇬🇧 - I'm a Computer Engineer currently pursuing a MSc degree in Electrical Engineering, conducting research involving Machine Learning and Digital Signal Processing.
 
-🇧🇷 - Sou Engenheiro de Computação prestes a ingressar no mestrado.
+🇧🇷 - Sou Engenheiro de Computação, e atualmente estou cursando o Mestrado em Engenharia Elétrica nas vertentes de Aprendizagem de Máquina e Processamento Digital de Sinais.
 
 ## Áreas de conhecimento (Knowledge fields)
 *  Aprendizagem de máquina (Machine Learning/Deep Learning)
