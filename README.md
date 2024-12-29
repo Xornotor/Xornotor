@@ -5,10 +5,10 @@
 🇧🇷 - Sou Engenheiro de Computação, e atualmente estou cursando o Mestrado em Engenharia Elétrica na Universidade Federal da Bahia (UFBA), realizando pesquisa nas vertentes de Aprendizagem de Máquina e Processamento Digital de Sinais.
 
 ## Áreas de conhecimento (Knowledge fields)
+*  Codificação de Circuitos Digitais em Verilog para FPGA/ASIC (Verilog coding for FPGA/ASIC)
 *  Aprendizagem de máquina (Machine Learning/Deep Learning)
 *  Ciência de dados (Data Science)
 *  Microcontroladores e Sistemas Embarcados (Microcontrollers & Embedded Systems)
-*  Prototipação de Circuitos Digitais para FPGA's em Verilog (Verilog coding and FPGA prototypes)
 
 ## Tecnologias
 
@@ -37,6 +37,7 @@
 **Hardware:**
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-%23D00000.svg?style=for-the-badge&logoColor=white)
 ![ESP32-S3](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-%233d780d.svg?style=for-the-badge&logo=FPGA&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
