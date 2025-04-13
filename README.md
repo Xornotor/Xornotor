@@ -1,11 +1,11 @@
 # André Paiva
 
-🇬🇧 - I'm a Computer Engineer currently pursuing a MSc degree in Electrical Engineering at Federal University of Bahia (UFBA), conducting research involving Machine Learning and Digital Signal Processing.
+🇧🇷 - Sou Engenheiro de Computação, e atualmente estou cursando o Mestrado em Engenharia Elétrica e de Computação na Universidade Federal da Bahia (UFBA), realizando pesquisas envolvendo Aprendizagem de Máquina e Processamento Digital de Sinais aplicados a Física de Altas Energias.
 
-🇧🇷 - Sou Engenheiro de Computação, e atualmente estou cursando o Mestrado em Engenharia Elétrica na Universidade Federal da Bahia (UFBA), realizando pesquisa nas vertentes de Aprendizagem de Máquina e Processamento Digital de Sinais.
+🇬🇧 - I'm a Computer Engineer currently pursuing a MSc degree in Electrical and Computer Engineering at Federal University of Bahia (UFBA), conducting research involving Machine Learning and Digital Signal Processing applied to High Energy Physics.
 
 ## Áreas de conhecimento (Knowledge fields)
-*  Codificação de Circuitos Digitais em Verilog para FPGA/ASIC (Verilog coding for FPGA/ASIC)
+*  Concepção de Circuitos Digitais em Verilog para FPGA/ASIC (RTL Design with Verilog for FPGA/ASIC)
 *  Aprendizagem de máquina (Machine Learning/Deep Learning)
 *  Ciência de dados (Data Science)
 *  Microcontroladores e Sistemas Embarcados (Microcontrollers & Embedded Systems)
@@ -38,7 +38,7 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Cadence](https://img.shields.io/badge/Cadence-%23D00000.svg?style=for-the-badge&logoColor=white)
-![ESP32-S3](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-%233d780d.svg?style=for-the-badge&logo=FPGA&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![STM 32](https://img.shields.io/badge/STM32-%2300599C.svg?style=for-the-badge&logo=STM32&logoColor=black)
