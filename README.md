@@ -4,7 +4,7 @@
 
 🇬🇧 - I'm a Computer Engineer currently pursuing a MSc degree in Electrical and Computer Engineering at Federal University of Bahia (UFBA), conducting research involving Machine Learning and Digital Signal Processing applied to High Energy Physics.
 
-## Áreas de conhecimento (Knowledge fields)
+## Áreas de conhecimento (Expertise)
 *  Concepção de Circuitos Digitais em Verilog para FPGA/ASIC (RTL Design with Verilog for FPGA/ASIC)
 *  Aprendizagem de máquina (Machine Learning/Deep Learning)
 *  Ciência de dados (Data Science)
