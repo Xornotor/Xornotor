@@ -1,8 +1,8 @@
 # André Paiva
 
-🇧🇷 - Sou Engenheiro de Computação, e atualmente estou cursando o Mestrado em Engenharia Elétrica e de Computação na Universidade Federal da Bahia (UFBA), realizando pesquisas envolvendo Aprendizagem de Máquina e Processamento Digital de Sinais aplicados a Física de Altas Energias.
+🇧🇷 - Sou Mestre em Engenharia Elétrica e de Computação (UFBA, 2026), Engenheiro de Computação (UFBA, 2023), e Técnico em Eletrônica (IFBA, 2017). Atualmente, conduzo pesquisas acadêmicas envolvendo Aprendizagem de Máquina e Processamento Digital de Sinais aplicados a Física de Altas Energias.
 
-🇬🇧 - I'm a Computer Engineer currently pursuing a MSc degree in Electrical and Computer Engineering at Federal University of Bahia (UFBA), conducting research involving Machine Learning and Digital Signal Processing applied to High Energy Physics.
+🇬🇧 - I'm a M.Sc. in Electrical and Computer Engineering (Federal University of Bahia, 2026), Computer Engineer (Federal University of Bahia, 2023) and Electronics Technician (Federal Institute of Bahia, 2017). Currently, I conduct academic research involving Machine Learning and Digital Signal Processing applied to High Energy Physics.
 
 ## Áreas de conhecimento (Expertise)
 *  Concepção de Circuitos Digitais em Verilog para FPGA/ASIC (RTL Design with Verilog for FPGA/ASIC)
@@ -58,6 +58,7 @@
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Sistemas Operacionais:**
@@ -75,12 +76,3 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-
-## Estatísticas
-
-<div>
-<a href="https://github.com/Xornotor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xornotor&layout=compact&langs_count=8&theme=cobalt"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xornotor&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&rank_icon=github"/>
-</div>
